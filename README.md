@@ -2,7 +2,7 @@
 
 ##a very simple use:
 
-1- put the the py in a folder you want to orgnize
+1- put the the `.py` in a folder you want to orgnize
 
 2- run cmd powershell or terminal in that folder 
 
