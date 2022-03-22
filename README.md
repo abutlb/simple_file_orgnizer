@@ -4,7 +4,7 @@
 
 1- put the the `.py` in a folder you want to orgnize
 
-2- run cmd powershell or terminal in that folder 
+2- run cmd/powershell/terminal or whatever you want in that folder 
 
 3- type `File_Orgnizer.py [option]`
 
