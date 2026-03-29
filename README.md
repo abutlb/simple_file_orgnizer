@@ -32,7 +32,7 @@
 2. تأكد من تثبيت المتطلبات:
 
 ```bash
-pip install tqdm
+pip install -r requirements.txt
 ```
 
 ### التثبيت من Git
